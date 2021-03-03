@@ -1,0 +1,13 @@
+C:\Users\janre\Desktop\C#\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\netcoreapp3.1\SimpleConsoleApp.exe
+C:\Users\janre\Desktop\C#\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\netcoreapp3.1\SimpleConsoleApp.deps.json
+C:\Users\janre\Desktop\C#\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\netcoreapp3.1\SimpleConsoleApp.runtimeconfig.json
+C:\Users\janre\Desktop\C#\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\netcoreapp3.1\SimpleConsoleApp.runtimeconfig.dev.json
+C:\Users\janre\Desktop\C#\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\netcoreapp3.1\SimpleConsoleApp.dll
+C:\Users\janre\Desktop\C#\SimpleConsoleApp\SimpleConsoleApp\bin\Debug\netcoreapp3.1\SimpleConsoleApp.pdb
+C:\Users\janre\Desktop\C#\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\netcoreapp3.1\SimpleConsoleApp.csprojAssemblyReference.cache
+C:\Users\janre\Desktop\C#\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\netcoreapp3.1\SimpleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\janre\Desktop\C#\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\netcoreapp3.1\SimpleConsoleApp.AssemblyInfo.cs
+C:\Users\janre\Desktop\C#\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\netcoreapp3.1\SimpleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\janre\Desktop\C#\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\netcoreapp3.1\SimpleConsoleApp.dll
+C:\Users\janre\Desktop\C#\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\netcoreapp3.1\SimpleConsoleApp.pdb
+C:\Users\janre\Desktop\C#\SimpleConsoleApp\SimpleConsoleApp\obj\Debug\netcoreapp3.1\SimpleConsoleApp.genruntimeconfig.cache
